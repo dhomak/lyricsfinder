@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Slowpony Inc. All rights reserved.
+# Licensed under the GNU General Public License v3.0. See LICENSE for details.
 """
 Audio Lyrics Fetcher for macOS
 Recursively finds FLAC, ALAC (M4A), and MP3 files and fetches lyrics from the internet
